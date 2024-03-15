@@ -26,7 +26,7 @@ O numeros representam a quantidade de decisões de cada magistrado.
 
 ## 1. Definição de parâmetros de pesquisa (até 27/03):
 
--   Definir as teses (aquisição, construção/incorporação, locação);
+- [ ] Definir as teses (aquisição, construção/incorporação, locação);
 -   Definir os verbetes;
 -   Definir o formato do relatório;
 -   Definir os dados que serão analisados;
