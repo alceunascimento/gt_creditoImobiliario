@@ -2,17 +2,21 @@
 title: "GT Crédito Imobiliário"
 subtitle: "Relatório Jurisprudencial"
 author: A, B, C
+date: last-modified
 ---
 
 # Relatório jurisprudencial
 
-Este relatório contém [...].
+Este relatório contém \[...\].
 
 # Introdução
-A [...].
+
+A \[...\].
 
 # Metodologia
-A [...].
+
+A \[...\].
 
 # Resultados
-A [...].
+
+A \[...\].
