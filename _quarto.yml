@@ -1,0 +1,6 @@
+project:
+  title: "base_quarto_site_para_github"
+  output-dir: docs
+
+editor: visual
+
