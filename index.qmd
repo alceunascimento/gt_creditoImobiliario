@@ -5,9 +5,30 @@ author: A, B, C
 date: last-modified
 ---
 
-# Relatório jurisprudencial
+```{r setup, options}
+# setup
+## pacotes
+library(tidyverse)
+library(dplyr)
+library(here)
+library(jsonlite)
+library(listviewer)
+library(tidyr)
+library(purrr)
+library(gt)
+library(gtExtras)
+library(sjPlot)
+library(ggplot2)
+library(wesanderson)  # For palette selection
+library(flextable)
+library(kableExtra)
+library(huxtable)
+library(stringr)  # Load the stringr library for string manipulation.
+library(knitr)
+library(kableExtra)
+library(extrafont)
+```
 
-Este relatório contém \[...\].
 
 # Introdução
 

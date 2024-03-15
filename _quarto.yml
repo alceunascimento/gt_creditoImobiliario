@@ -6,6 +6,10 @@ editor: visual
 
 format: 
   html:
+    code-link: true
+    code-copy: true 
+    code-fold: true 
+    code-summary: "Mostre o código"
     theme: cosmo
     
 execute: 
