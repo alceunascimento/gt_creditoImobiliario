@@ -10,7 +10,9 @@ Este relatório contém [...].
 
 # Introdução
 A [...].
+
 # Metodologia
 A [...].
+
 # Resultados
 A [...].
