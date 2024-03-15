@@ -1,11 +1,16 @@
 ---
-title: "base_quarto_site_para_github"
+title: "GT Crédito Imobiliário"
+subtitle: "Relatório Jurisprudencial"
+author: A, B, C
 ---
 
-## Quarto
+# Relatório jurisprudencial
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+Este relatório contém [...].
 
-```{r}
-1 + 1
-```
+# Introdução
+A [...].
+# Metodologia
+A [...].
+# Resultados
+A [...].
