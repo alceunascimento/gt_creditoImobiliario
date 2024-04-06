@@ -53,6 +53,21 @@ O numeros representam a quantidade de decisões de cada magistrado.
 
 -   [ ] Produzir o relatório;
 
+# Parâmetros
+Para a execução do relatório foram definidos os seguintes parâmetros:
+
+Tema| Verbetes
+---| ---
+indexador monetário | "imóvel", "substituição" , "IGP-M", "IGPM", "IPCA"
+garantias locatícias | "locação", "garantia", "substituição", "despejo"
+
+Quanto ao primeiro tema, o objetivo é identificar a posição do TJPR quanto à modificação do indexador monetário contratual no período dos últimos 8 anos.
+Isto permite analisar os efeitos da pandemia de COVID-19.
+
+Quanto ao segundo tema, o objetivo é identificar a posição do TJPR quanto à aplicação da norma que permite o despejo liminar.
+Serão observados os acórdões proferidos em agravos de instrumento contra as decisões liminares, especialmente nos casos onde houve extinção da garantia no curso do contrato.
+Esta definição permitirá observar os efeitos dos modelos de negócio das staratups que fornecem garantias locatícias, identificando se a presença do modelo produz alguma alteração no cumprimento do despejo.
+
 
 # Notas
 ## Como funciona o processo de manipulação de dados?
